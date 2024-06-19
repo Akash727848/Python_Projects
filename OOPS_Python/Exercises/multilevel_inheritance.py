@@ -24,3 +24,4 @@ class boy(papa):
 boy1=boy("Pullaiah Narayan","Ramesh Narayan","AkashAkshay Narayan")
 boy1.acquire()
 
+
